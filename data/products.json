@@ -1,0 +1,10 @@
+{"product_id":1,"product_name":"Milbona milk","categories":[{"category_id":1023,"category_name":"Dairy product"}]}
+{"product_id":2,"product_name":"Milbona cheese","categories":[{"category_id":1023,"category_name":"Dairy product"}]}
+{"product_id":3,"product_name":"Milbona yogur","categories":[{"category_id":1023,"category_name":"Dairy product"}]}
+{"product_id":4,"product_name":"Crownfield black","categories":[{"category_id":1025,"category_name":"Cereal"}]}
+{"product_id":5,"product_name":"Crownfield with milk","categories":[{"category_id":1025,"category_name":"Cereal"}]}
+{"product_id":6,"product_name":"Sondey cookeys","categories":[{"category_id":1026,"category_name":"Cookies"}]}
+{"product_id":7,"product_name":"Sondey digestive","categories":[{"category_id":1026,"category_name":"Cookies"},{"category_id":1025,"category_name":"Cereal"}]}
+{"product_id":8,"product_name":"Sondey hazelnuts","categories":[{"category_id":1026,"category_name":"Cookies"}]}
+{"product_id":9,"product_name":"Freshona beans","categories":[{"category_id":1028,"category_name":"Vegetables"}]}
+{"product_id":10,"product_name":"Freshona potatoes","categories":[{"category_id":1028,"category_name":"Vegetables"}]}
