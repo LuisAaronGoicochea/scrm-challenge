@@ -1,0 +1,11 @@
+product_id,product_name,categories/0/category_id,categories/0/category_name,categories/1/category_id,categories/1/category_name
+1,Milbona milk,1023,Dairy product,,
+2,Milbona cheese,1023,Dairy product,,
+3,Milbona yogur,1023,Dairy product,,
+4,Crownfield black,1025,Cereal,,
+5,Crownfield with milk,1025,Cereal,,
+6,Sondey cookeys,1026,Cookies,,
+7,Sondey digestive,1026,Cookies,1025,Cereal
+8,Sondey hazelnuts,1026,Cookies,,
+9,Freshona beans,1028,Vegetables,,
+10,Freshona potatoes,1028,Vegetables,,
